@@ -1,5 +1,5 @@
 ---
-title: "Hockey Game on STM32"
+title: "Ice Hockey Game on STM32"
 subtitle: ""
 side_note1: "32-bit Microprocessor UART, RS232"
 side_note2: ""

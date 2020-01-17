@@ -2,7 +2,7 @@
 title: "Electronic Engineer Researcher"
 subtitle: "Lighting Enabled Systems & Applications ERC @ RPI"
 side_note1: "Sep 2016 - May 2017 (Fall 2016 - Spring 2017)"
-side_note2: "Embedded C, I2C/UART, AD/DA, Python, Network programming"
+side_note2: "Embedded C, I2C/UART, AD/DA, Python"
 draft: false
 ---
 
