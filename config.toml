@@ -17,7 +17,7 @@ googleAnalytics = ""
     [params.profile]
         enable = true
         name = "Yan Zhang"
-        tagline = "Embededd System Developer"
+        tagline = "Embededd Software Developer"
 
     [params.contact]
         enable = true
